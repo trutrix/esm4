@@ -1,0 +1,9 @@
+# ESM Library
+
+## Considerations
+⚪ CELL, WRLD, QUST groups have different content structures  
+⚪ Some fields reference each other for parsing  
+⚪ Some fields are compounded with neighboring fields  
+⚪ Some fields have structures unique to the records they are in  
+
+
